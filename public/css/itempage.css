@@ -1,0 +1,64 @@
+#item-brand {
+    color: #7E859B;
+    font-size: 19px;
+}
+
+#item-name {
+    color: #404553;
+    font-size: 22.4px;
+}
+
+#item-model, #item-rating {
+    font-size: 14px;
+    color: #7e859b;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.color7e859b {
+    color: #7E859B;
+}
+
+.color404553 {
+    color: #404553;
+}
+
+#item-megadeal {
+    color: #c83322;
+    background-color: #ffcbc6;
+    font-size: 14px;
+}
+
+#item-free-delivery {
+    color: #404553;
+    font-size: 14px;
+}
+
+#item-overview {
+    max-height: 600px;
+}
+
+@media only screen and (max-width: 500px) {
+    .detail-section {
+        width: 100%;
+    }
+}
+
+
+#addtocart {
+    position: fixed;
+    bottom: 60px;
+    z-index: 10;
+}
+
+
+
+
+
+
